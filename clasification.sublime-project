@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "static"
+		},
+		{
+			"path": "templates"
+		},
+		{
+			"path": "uploads"
+		}
+	]
+}
